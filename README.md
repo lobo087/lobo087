@@ -55,3 +55,8 @@ Con una visión integral, combino **docencia, investigación y práctica profesi
 ## 🔗 Enlaces
 
 - 🟢 [ORCID: 0009-0002-2731-5531](https://orcid.org/0009-0002-2731-5531)
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
