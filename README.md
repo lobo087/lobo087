@@ -61,11 +61,11 @@ Con una visión integral, combino **docencia, investigación y práctica profesi
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [lobo087/site](https://github.com/lobo087/site)<br>
-2. ⬆️ Pushed undefined commit(s) to [lobo087/repoPruebas](https://github.com/lobo087/repoPruebas)<br>
-3. ✌️ Released [v0.1.0](https://github.com/lobo087/CodeRelease/releases/tag/v0.1.0) in [lobo087/CodeRelease](https://github.com/lobo087/CodeRelease)<br>
-4. ⬆️ Pushed undefined commit(s) to [lobo087/CodeRelease](https://github.com/lobo087/CodeRelease)<br>
-5. ⬆️ Pushed undefined commit(s) to [lobo087/repoTesting](https://github.com/lobo087/repoTesting)<br>
+2. ⬆️ Pushed undefined commit(s) to [lobo087/site](https://github.com/lobo087/site)<br>
+3. ⬆️ Pushed undefined commit(s) to [lobo087/repoPruebas](https://github.com/lobo087/repoPruebas)<br>
+4. ✌️ Released [v0.1.0](https://github.com/lobo087/CodeRelease/releases/tag/v0.1.0) in [lobo087/CodeRelease](https://github.com/lobo087/CodeRelease)<br>
+5. ⬆️ Pushed undefined commit(s) to [lobo087/CodeRelease](https://github.com/lobo087/CodeRelease)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 21st, 2025, 2:19:17 AM
+Last Updated: Tuesday, October 21st, 2025, 12:20:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
