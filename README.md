@@ -60,12 +60,12 @@ Con una visión integral, combino **docencia, investigación y práctica profesi
 
 ### ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Code087LB/skills-hello-github-actions](https://github.com/Code087LB/skills-hello-github-actions)<br>
-2. 💪 Opened PR [#7](undefined) in [Code087LB/skills-hello-github-actions](https://github.com/Code087LB/skills-hello-github-actions)<br>
-3. ⬆️ Pushed undefined commit(s) to [Code087LB/skills-hello-github-actions](https://github.com/Code087LB/skills-hello-github-actions)<br>
-4. ⬆️ Pushed undefined commit(s) to [Code087LB/skills-hello-github-actions](https://github.com/Code087LB/skills-hello-github-actions)<br>
-5. ⬆️ Pushed undefined commit(s) to [Code087LB/skills-hello-github-actions](https://github.com/Code087LB/skills-hello-github-actions)<br>
+1. ⬆️ Pushed undefined commit(s) to [lobo087/skills-secure-repository-supply-chain](https://github.com/lobo087/skills-secure-repository-supply-chain)<br>
+2. ⬆️ Pushed undefined commit(s) to [lobo087/skills-secure-repository-supply-chain](https://github.com/lobo087/skills-secure-repository-supply-chain)<br>
+3. ⬆️ Pushed undefined commit(s) to [lobo087/skills-secure-repository-supply-chain](https://github.com/lobo087/skills-secure-repository-supply-chain)<br>
+4. ⬆️ Pushed undefined commit(s) to [lobo087/skills-secure-repository-supply-chain](https://github.com/lobo087/skills-secure-repository-supply-chain)<br>
+5. ⬆️ Pushed undefined commit(s) to [lobo087/skills-secure-repository-supply-chain](https://github.com/lobo087/skills-secure-repository-supply-chain)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 28th, 2025, 1:02:23 PM
+Last Updated: Monday, December 29th, 2025, 12:58:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
