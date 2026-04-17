@@ -62,5 +62,5 @@ Con una visión integral, combino **docencia, investigación y práctica profesi
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 16th, 2026, 1:01:36 PM
+Last Updated: Friday, April 17th, 2026, 1:22:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
