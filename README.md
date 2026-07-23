@@ -2,9 +2,11 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2731--5531-green?logo=orcid)](https://orcid.org/0009-0002-2731-5531)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván%20Reyes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivreyes/)
+
 ## 🚀 Innovación y Seguridad en la Era Digital
 
-Líder académico y tecnológico con más de una década de experiencia en **gestión y docencia universitaria**.  
+Líder académico y tecnológico con más de una década de experiencia en ** docencia e investigación universitaria **.  
 Actualmente me desempeño como **Coordinador Académico de Posgrados en la Escuela de Ciencias de la Computación – UIDE**, donde impulso la **formación de profesionales en tecnologías emergentes** y la **transformación digital**.
 
 ---
@@ -38,6 +40,7 @@ Actualmente me desempeño como **Coordinador Académico de Posgrados en la Escue
 
 ## 🔬 Investigación y Docencia
 
+- 🔒 Proyectos de **Investigación Académica**
 - 🔒 Proyectos en **Ciberseguridad**  
 - 💻 Proyectos en **desarrollo con Go**
 - 📊 Proyectos en **Inteligencia Artificial y Ciencia de Datos**
@@ -55,6 +58,8 @@ Con una visión integral, combino **docencia, investigación y práctica profesi
 ## 🔗 Enlaces
 
 - 🟢 [ORCID: 0009-0002-2731-5531](https://orcid.org/0009-0002-2731-5531)
+
+- 🌐 LinkedIn: [Iván Reyes](https://www.linkedin.com/in/ivreyes/)
 
 ---
 
